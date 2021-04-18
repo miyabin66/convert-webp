@@ -1,0 +1,23 @@
+{
+  "name": "convert-webp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convertWebp.js",
+  "scripts": {
+    "start": "node convertWebp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyabin66/convert-webp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyabin66/convert-webp/issues"
+  },
+  "homepage": "https://github.com/miyabin66/convert-webp#readme",
+  "devDependencies": {
+    "sharp": "^0.28.1"
+  }
+}
